@@ -1,0 +1,62 @@
+.formstyle {
+    width: 89%;
+    margin-top: -15px;
+}
+#messagechat
+{
+  position: absolute;
+  bottom: 0;
+  max-height: 519px;
+  margin-left: 30px;
+}
+#ginniview {
+    margin-left: 2%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    width: 600px;
+}
+#cursor:hover{
+  cursor: pointer;
+}
+
+#geniestyle {
+    margin-left: 2%;
+}
+#assistantView {
+    margin-left: 2%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    width: 600px;
+}
+#userstyle {
+  margin-left: 2%;
+}
+#textinput {
+    border-color: teal;
+    width: 98%;
+    margin-left: 1%;
+    border-width: medium;
+    border-style: double;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 17px;
+}
+#messagechat
+{
+    position: absolute;
+    bottom: 0;
+    max-height: 516px;
+}
+#chatheading {
+    text-align: center;
+}
+#ginni {
+    margin-top: -15px;
+    min-height: 510px;
+}
